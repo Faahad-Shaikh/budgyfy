@@ -78,6 +78,7 @@ flutter run
 ---
 
 📦 Download Release APK
+
 Want to test Budgyfy directly on your physical Android device?
 
 Go to the Releases Page.
