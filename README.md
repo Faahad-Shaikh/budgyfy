@@ -92,15 +92,3 @@ Install it on your phone!
 ---
 📄 License
 This project is open-source and available under the MIT License.
-
----
-
-### Step-by-Step Instructions to Push the README to GitHub
-
-Once you've saved `README.md` locally, run these commands in your terminal:
-
-```bash
-git add README.md
-git commit -m "docs: add comprehensive README with architecture and setup guide"
-git push origin main
-
