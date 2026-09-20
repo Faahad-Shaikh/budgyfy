@@ -18,13 +18,13 @@
 ## 🏗️ Architecture & Folder Structure
 
 Budgyfy follows a **Modular Architecture** adhering to the **Single Responsibility Principle (SRP)**:
-
+```text
 lib/
 ├── models/         # Data blueprints & JSON serialization (Account, Category, Transaction)
 ├── services/       # Disk I/O & local persistence (LocalStorageService)
 ├── widgets/        # Isolated, reusable UI components (AppBar, Drawer, Modals, Lists)
 └── screens/        # State controllers & layout orchestrators (HomePage)
-
+```
 ---
 
 🛠️ Tech Stack & Dependencies
