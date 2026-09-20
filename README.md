@@ -62,7 +62,7 @@ Steps
 1. Clone the repository:
 
 Bash
-git clone [https://github.com/YOUR_USERNAME/Budgyfy.git](https://github.com/YOUR_USERNAME/Budgyfy.git)
+git clone [https://github.com/Faahad-Shaik/Budgyfy.git](https://github.com/Faahad-Shaik/Budgyfy.git)
 cd Budgyfy
 
 2. Install dependencies:
