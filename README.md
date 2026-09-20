@@ -15,6 +15,18 @@
 
 ---
 
+## 📸 App Screenshots
+
+| Initial State | Main Dashboard | Add Expense Modal | Add Income Modal |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/screenshots/starting-page.png" width="200" /> | <img src="assets/screenshots/home-dashboard.png" width="200" /> | <img src="assets/screenshots/AddExpense-drawer.png" width="200" /> | <img src="assets/screenshots/AddIncome-drawer.png" width="200" /> |
+
+| Account Drawer | Category Modal | Delete Alert |
+| :---: | :---: | :---: |
+| <img src="assets/screenshots/account-side-bar.png" width="200" /> | <img src="assets/screenshots/categories-bottom-navigation-bar" width="200" /> | <img src="assets/screenshots/delete-alert.png" width="200" /> |
+
+---
+
 ## 🏗️ Architecture & Folder Structure
 
 Budgyfy follows a **Modular Architecture** adhering to the **Single Responsibility Principle (SRP)**:
