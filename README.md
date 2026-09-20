@@ -23,7 +23,7 @@
 
 | Account Drawer | Category Modal | Delete Alert |
 | :---: | :---: | :---: |
-| <img src="assets/screenshots/account-side-bar.png" width="200" /> | <img src="assets/screenshots/categories-bottom-navigation-bar" width="200" /> | <img src="assets/screenshots/delete-alert.png" width="200" /> |
+| <img src="assets/screenshots/account-side-bar.png" width="200" /> | <img src="assets/screenshots/categories-bottom-navigation-bar.png" width="200" /> | <img src="assets/screenshots/delete-alert.png" width="200" /> |
 
 ---
 
